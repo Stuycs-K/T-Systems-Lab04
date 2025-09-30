@@ -15,7 +15,7 @@ I will not run your makefile, but you should use one to validate your function.
 # Optimizations:
 
 
-1. No Optimizations, just malloc/calloc the array and get large primes. (Just make it work with an array that is the size of the 2,000,000th prime)
+1. No Optimizations, just malloc/calloc the array and get large primes. (Just make it work with an array that is the size of the 2,000,000th prime 32452844)
 2. Use char array instead of int
 3. Only cross out multiples of primes IF the prime is less than the sqrt of the SIZE. This makes the entire process stop when you reach a high enough prime.
 4. Estimate the size of your array using math (see prime approximation below) This will lower your speed.
