@@ -2,9 +2,9 @@
 
 # Functionality Requirement:
 
-int sieve(int n); // this is the only required function 
+Required function: `int sieve(int n); `
 
-sieve(n) must work for all n in the range: 1 <= n <= 2000000
+`sieve(n)` must work for all n in the range: `1 <= n <= 2000000`
 
 # Makefile:
 
