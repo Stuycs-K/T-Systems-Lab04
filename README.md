@@ -13,7 +13,7 @@ int sieve(int n){
 
 //basic version
 int sieveV1(int n){
-  //code
+  //code that is tested and working
 }
 
 //stopped early when checking primes
