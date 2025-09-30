@@ -4,6 +4,8 @@
 
 int sieve(int n); // this is the only required function 
 
+sieve(n) must work for all n in the range: 1 <= n <= 2000000
+
 # Makefile:
 
 I will not run your makefile, but you should use one to validate your function.
