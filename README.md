@@ -4,6 +4,8 @@
 
 Required function: `int sieve(int n); `
 
+Return value: the n'th prime, such that `sieve(1)=2` , `sieve(2)=3`, `sieve(25)=97`, etc.
+
 `sieve(n)` must work for all n in the range: `1 <= n <= 2000000`
 
 # Makefile:
