@@ -1,8 +1,12 @@
 # Lab04
 
-# Requirement:
+# Functionality Requirement:
 
 int sieve(int n); // this is the only required function 
+
+# Makefile:
+
+I will not run your makefile, but you should use one to validate your function.
 
 # Suggested Workflow:
 
